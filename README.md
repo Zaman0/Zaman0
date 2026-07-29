@@ -14,7 +14,7 @@ I work part-time as a **Jr. SOC Analyst** and spend the rest of my time in a hom
 If you're looking at a repo of mine, it's probably because you want to see how I think through a problem — not just whether I can copy-paste a query. That's the goal.
 
 
-## Featured Projects
+## Pinned Projects
 | Project | Description | Tech Stack | Link |
 |----------|-------------|------------|------|
 | Splunk SOC Investigation | 30-day SOC investigation portfolio — custom indexes, tuned detections, MITRE ATT&CK mapping | Splunk, SPL | [View](https://github.com/Zaman0/splunk-soc-investigation) |
