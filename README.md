@@ -6,7 +6,7 @@ I work part-time as a **Jr. SOC Analyst** and spend the rest of my time in a hom
 
 - 🔭 Currently building a 30-day Splunk SOC investigation portfolio, one day at a time
 - 📚 I achived Google Cyber Security Certificate and Studying for **CompTIA Security+**
-- 🛠️ Home lab: Wazuh SIEM, Sysmon, Windows/Ubuntu detection engineering
+- 🛠️ Home lab: Wazuh (XDR) and Splunk SIEM, Sysmon, Windows/Ubuntu detection engineering
 - 💻 Background: Help Desk & Systems Administration
 - 🎯 Looking for a full-time SOC Analyst role
 - 📍 Based in Tampa, FL
